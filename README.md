@@ -9,8 +9,8 @@ Instructions for use:
   - tsp_abc.cpp
   - tsp_solver.py
   - README.md
-Install dependencies: pip install numpy matplotlib
-Run: python tsp_solver.py
+3. Install dependencies: pip install numpy matplotlib
+4. Run: python tsp_solver.py
 
 Instrucciones de uso:
 1. Crea una carpeta para el proyecto
