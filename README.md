@@ -6,9 +6,9 @@ Application of the bee colony algorithm to find the shortest route between point
 Instructions for use: 
 1. Create a folder for the project
 2. Copy the 3 files into the folder:
-  -tsp_abc.cpp
-  -tsp_solver.py
-  -README.md
+  - tsp_abc.cpp
+  - tsp_solver.py
+  - README.md
 Install dependencies: pip install numpy matplotlib
 Run: python tsp_solver.py
 
