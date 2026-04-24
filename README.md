@@ -20,3 +20,36 @@ Instrucciones de uso:
    - README.md
 3. Instala dependencias: pip install numpy matplotlib
 4. Ejecuta: python tsp_solver.py
+
+
+# TSP Solver with Artificial Bee Colony Algorithm
+
+Solution to the Traveling Salesman Problem (TSP) using the Artificial Bee Colony algorithm.
+
+##  Quick Start
+
+### Requirements
+- Python 3.6+
+- g++ (C++ compiler)
+- numpy, matplotlib
+
+### Installation
+``bash
+pip install numpy matplotlib
+
+
+# Solución al Problema del Viajante (TSP) usando el algoritmo de Colonias de Abejas Artificiales.
+
+## Inicio Rápido
+
+### Requisitos
+- Python 3.6+
+- g++ (compilador de C++)
+- numpy, matplotlib
+
+### Instalación
+``bash
+pip install numpy matplotlib
+
+deja los caracteres raros
+
